@@ -1,1 +1,1 @@
-pint("HEllo")
+print("HEllo")
