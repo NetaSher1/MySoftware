@@ -1,7 +1,7 @@
-print("HEllo")
+print("Hello")
 
 def click():
-    print("click")
+    print("click!!")
 
 def welcome():
     print("New Screen")
