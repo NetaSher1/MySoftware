@@ -1,4 +1,4 @@
-print("HEllo")
+print("Hello")
 
 def click():
-    print("click")
+    print("click!!")
